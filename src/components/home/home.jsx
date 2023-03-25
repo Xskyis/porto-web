@@ -39,10 +39,10 @@ function Home () {
   );
 }
 
-// const toggle = document.querySelector('.main-img')
-// toggle.addEventListener('click', () => {
-//   toggle.classList.toggle('active')
-// });
+const toggle = document.querySelector('.main-img')
+toggle.addEventListener('click', () => {
+  toggle.classList.toggle('active')
+});
 
 
 export default Home;
