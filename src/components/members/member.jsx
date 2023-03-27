@@ -14,7 +14,7 @@ const Members = () => {
             This is one of my certificate, For more you can click the button
             below
           </h4>
-          <a href='#contact' className='contact-member'>
+          <a href='https://drive.google.com/drive/folders/1w5soJXHEIj9i5KWrk17ugQycMWDCDt1-?usp=share_link' className='contact-member'>
             <FaGoogleDrive /> <span> More</span>
           </a>
         </div>
@@ -23,13 +23,11 @@ const Members = () => {
       <div className='member member-2'>
         <div className='member-img'></div>
         <div className='member-info'>
-          <h1 className='name'>Dummy</h1>
-          <h3 className='position'>Leader</h3>
+          <h1 className='name'>3D Model</h1>
           <h4 className='about'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe,
-            vitae.
+            This is one of my 3d model, For more you can click the button below
           </h4>
-          <a href='#contact' className='contact-member'>
+          <a href='https://drive.google.com/drive/folders/1zI6SseCBqx6BLVFXENF40EpgPPX0WHyg?usp=share_link' className='contact-member'>
             <FaGoogleDrive /> <span> More</span>
           </a>
         </div>

@@ -3,7 +3,7 @@ import './footer.css'
 import { BsMouse } from 'react-icons/bs'
 import { BsInstagram } from 'react-icons/bs'
 import { BsFacebook } from 'react-icons/bs'
-import { TiSocialDribbble } from 'react-icons/ti'
+import { BsLinkedin } from 'react-icons/bs'
 import { TiSocialYoutube } from 'react-icons/ti'
 import { TiSocialGithub } from 'react-icons/ti'
 
@@ -20,19 +20,19 @@ function Footer () {
       </h1>
       <div className="social-links">
 
-        <a href="#">
+        <a href="https://www.instagram.com/nabilfgrza_">
             <BsInstagram className='social' />
         </a>
-        <a href="#">
+        <a href="https://web.facebook.com/achmad.afgareza/">
             <BsFacebook className='social' />
         </a>
-        <a href="#">
-            <TiSocialDribbble className='social' />
+        <a href="https://www.linkedin.com/in/achmad-nabil-afgareza-6333b0247/">
+            <BsLinkedin className='social' />
         </a>
-        <a href="#">
+        <a href="https://www.youtube.com/@nabilfgrza">
             <TiSocialYoutube className='social' />
         </a>
-        <a href="#">
+        <a href="https://github.com/Xskyis">
             <TiSocialGithub className='social' />
         </a>
       </div>

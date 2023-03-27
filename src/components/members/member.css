@@ -27,11 +27,21 @@
     border-radius: 50px;
 }
 
-.members-container .member .member-img {    
+.members-container .member-1 .member-img {    
     height: 300px;
     width: 300px;
     border-radius: 40px;
-    background: url(../props/img3.png);
+    background: url(../props/certi.jpg);
+    background-size: contain;
+    background-position: center;
+    border: 2px solid var(--color-sec-light);
+}
+
+.members-container .member-2 .member-img {    
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background: url(../props/tridi.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
