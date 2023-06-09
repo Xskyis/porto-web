@@ -4,6 +4,10 @@
     font-weight: 400;
 }
 
+.member-text {   
+    font-size: 20px;
+}
+
 .members-container {    
     position: relative;
     display: flex;
@@ -84,3 +88,9 @@
     background: transparent;
     border: 2px solid var(--color-sec-light);
 }
+
+@media (max-width: 768px) {
+    .member-text {
+        padding-left: 17px;
+    }
+  }

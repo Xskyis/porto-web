@@ -4,7 +4,7 @@ import { FaGoogleDrive } from 'react-icons/fa'
 const Members = () => {
   return (
     <div id='members' className='container members-container'>
-      <h1 className='member-txt'>My Portofolio</h1>
+      <span className='member-text'>My Portofolio</span>
 
       <div className='member member-1'>
         <div className='member-img'></div>

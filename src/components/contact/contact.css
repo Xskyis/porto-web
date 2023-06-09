@@ -67,3 +67,13 @@
     margin-top: 3px;
     color: rgb(202, 202, 202);
 }
+
+@media (max-width: 768px) {
+    .contact-container .contact h2 {
+        font-size: 15px;
+    }
+
+    .contact-container .contact h2 span {
+        font-size: 9.5px;
+    }
+  }

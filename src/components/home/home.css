@@ -198,7 +198,7 @@
 
 @media (max-width: 768px) {
     .scroll-down{
-        right: -50px;
+        display: none;
     }
   }
 
