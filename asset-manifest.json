@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/porto-web/static/css/main.3225956e.css",
-    "main.js": "/porto-web/static/js/main.b48922a4.js",
+    "main.js": "/porto-web/static/js/main.a5dee01d.js",
     "static/media/tridi.png": "/porto-web/static/media/tridi.f4b35128467bb679d4ce.png",
     "static/media/csharp.png": "/porto-web/static/media/csharp.e355122ac59557ada09c.png",
     "static/media/react.png": "/porto-web/static/media/react.2f2532db663fd5ec5f95.png",
     "static/media/certi.jpg": "/porto-web/static/media/certi.59ad46d5569456c76693.jpg",
-    "static/media/pp.JPG": "/porto-web/static/media/pp.171ccf5d28e65cf8629e.JPG",
     "static/media/js.png": "/porto-web/static/media/js.b58e0cada6bdc52879ba.png",
     "static/media/mysql.png": "/porto-web/static/media/mysql.910a4566f5d136d5196b.png",
     "static/media/java.png": "/porto-web/static/media/java.4e332879122f609caa57.png",
     "static/media/html.png": "/porto-web/static/media/html.fb627e76c05a9a6c7444.png",
     "static/media/bootstrap.png": "/porto-web/static/media/bootstrap.cb0fcc269e8250f3551b.png",
     "static/media/css.png": "/porto-web/static/media/css.ea63097553654f07d95c.png",
+    "static/media/Logoo.jpg": "/porto-web/static/media/Logoo.ade4e94f7cd94c61544d.jpg",
     "index.html": "/porto-web/index.html",
     "main.3225956e.css.map": "/porto-web/static/css/main.3225956e.css.map",
-    "main.b48922a4.js.map": "/porto-web/static/js/main.b48922a4.js.map"
+    "main.a5dee01d.js.map": "/porto-web/static/js/main.a5dee01d.js.map"
   },
   "entrypoints": [
     "static/css/main.3225956e.css",
-    "static/js/main.b48922a4.js"
+    "static/js/main.a5dee01d.js"
   ]
 }
