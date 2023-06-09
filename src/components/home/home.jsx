@@ -1,5 +1,5 @@
 import './home.css'
-import logonya from '../props/pp.JPG'
+import logonya from '../props/Logoo.jpg'
 import Buttons from '../button/button'
 import { BsMouse } from 'react-icons/bs'
 
