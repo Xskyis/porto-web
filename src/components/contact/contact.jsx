@@ -1,7 +1,7 @@
 import './contact.css'
 
 import { AiOutlineYoutube } from 'react-icons/ai'
-import { BsWhatsapp } from 'react-icons/bs'
+import { AiOutlineWhatsApp } from 'react-icons/ai'
 import { AiOutlineInstagram } from 'react-icons/ai'
 
 function Contact () {
@@ -20,7 +20,7 @@ function Contact () {
         </a>
 
         <a href='https://wa.me/6281332160514' className='contact whatsapp'>
-          <BsWhatsapp className='icon' />
+          <AiOutlineWhatsApp className='icon' />
           <h2>
             whatsapp <span>+62 8133 216 0514</span>
           </h2>

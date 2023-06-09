@@ -49,3 +49,9 @@
     fill: rgb(88, 117, 248);
     border: 2px solid rgb(88, 117, 248);
 }
+
+@media (max-width: 768px) {
+    .navigation {
+      display: none;
+    }
+  }

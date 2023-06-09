@@ -3,8 +3,8 @@ import './button.css'
 function Buttons() {    
     return (    
         <div className="container button-container"> 
-            <a href="#about" className='btn pri'>   
-                Learn more
+            <a href="#members" className='btn pri'>   
+                Learn More
             </a>
             <a href="#contact" className='btn sec'> 
                 Contact Me

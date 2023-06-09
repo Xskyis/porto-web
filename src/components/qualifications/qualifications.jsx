@@ -27,7 +27,7 @@ const Qualification = () => {
                 </div>
                 <div className="qualification"> 
                     <div className="content csharp"></div>
-                    <h1>c#</h1>
+                    <h1>C#</h1>
                 </div>
                 <div className="qualification"> 
                     <div className="content mysql"></div>
